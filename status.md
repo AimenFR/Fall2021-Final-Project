@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Aimen Rehman 
 
 #### Your section leader's name
 
-TODO
+Zhenyu Zhao 
 
 #### Project title
 
-TODO
+Magic Bot 
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Researched magic tricks ranging from Math based card tricks, to Monte Carlo card tricks as well as possible ways to incorporate adding text options to the bot. I've researched how to set up the bot and the specific langauage required for Discord, and how one can program those things into the bot. The bot has currently been set up with very basic functinality. 
 
 #### What have you not done for your project yet?
 
-TODO
+Programmed the magic tricks
 
 #### What problems, if any, have you encountered?
 
-TODO
+Finding the time to engage in the project, trying to find resources that'll help me figure out how to translate the magic tricks
